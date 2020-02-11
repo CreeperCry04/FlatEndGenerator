@@ -1,0 +1,6 @@
+main: xyz.creepercry.flatendgenerator.FlatEndGenerator
+name: FlatEndGenerator
+load: startup
+author: CreeperCry
+version: 1.1
+website: https://creepercry04.github.io
